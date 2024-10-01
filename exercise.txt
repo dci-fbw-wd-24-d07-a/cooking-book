@@ -1,0 +1,17 @@
+Ziel In dieser Übung erstellt ihr ein Markdown-Dokument, das euer Lieblingsrezept darstellt. Folgt den nachstehenden Schritten, um euer Rezept hinzuzufügen:
+
+Schritte:
+
+- Erstellt einen Branch: Benennt diesen Branch nach eurem Namen.
+- Wechselt zu diesem Branch: Stellt sicher, dass ihr auf dem neuen Branch arbeitet.
+- Erstellt eine Markdown-Datei: Benennt diese Datei ebenfalls nach eurem Namen (dein-name.md).
+
+- Fügt euer Rezept in die Markdown-Datei ein: Das Dokument sollte folgende Elemente enthalten:
+- Titel des Rezepts
+- Zutatenliste
+- Schritt-für-Schritt-Anleitung
+- Bilder
+- Ansprechende Formatierung
+
+Abschluss:
+Wenn ihr mit eurer Markdown-Datei fertig seid, führt die notwendigen Schritte aus, um eure Änderungen zu unserem Klassenkochbuch auf GitHub remote hinzuzufügen.
